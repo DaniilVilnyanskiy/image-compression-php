@@ -1,0 +1,12 @@
+html {
+    padding: 50px;
+}
+body {
+    display: grid;
+    grid-template-columns: 500px 180px;
+}
+body div {
+    margin: 0 20px 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
